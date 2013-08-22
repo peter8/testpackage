@@ -1,0 +1,14 @@
+{
+    "name": "pqiu/d2lvalence",
+    "description": "d2lvalence client library for php",
+    "authors": [
+        {
+            "name": "Peter Qiu",
+            "email": "peter.qiu@desire2learn.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
